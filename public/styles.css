@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+rect, circle{
+    fill: #fa52a0;
+    opacity: 0.5;
+}
+
+text {
+    font-size: 1rem;
+}
+
+.tick text {
+    color: #8c8c86;
+}
+.tick line {
+    stroke: #C0C0BB;
+}
+.axis-label {
+    font-size: 2em;
+    fill: #77776e;
+}
+.title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
