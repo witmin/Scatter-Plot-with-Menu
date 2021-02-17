@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 2rem 0 0 0;
     overflow: auto;
     font-family: "Helvetica Neue", Arial, sans-serif;
 }
@@ -22,6 +22,7 @@ text {
 .axis-label {
     font-size: 2em;
     fill: #77776e;
+
 }
 .title {
     font-size: 1.2rem;
@@ -29,6 +30,16 @@ text {
     text-transform: uppercase;
 }
 
-#menu select option {
-    font-size: 2rem;
+
+#menus {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#menus select {
+  font-size: 1.5rem;
+}
+
+#menus select option {
+  font-size: 1rem;
 }
