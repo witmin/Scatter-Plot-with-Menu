@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    overflow: hidden;
+    overflow: auto;
     font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -27,4 +27,8 @@ text {
     font-size: 1.2rem;
     font-weight: 600;
     text-transform: uppercase;
+}
+
+#menu select option {
+    font-size: 2rem;
 }

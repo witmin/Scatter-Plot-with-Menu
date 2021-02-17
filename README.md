@@ -1,7 +1,7 @@
 # Scatter Plot with Menu with D3.js
 Follow the video tutorial on FreeCodeCamp.org made by Curran Kelleher: https://www.youtube.com/watch?v=_8V5o2UHG0E&t=36474s
 
-The source code by Curran is on [VizHub](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFp0b0FTTUp5emZmalhJMW4zNy1wWnVMTkI4QXxBQ3Jtc0traFVqWU1YMjR4eTl5c2VwaTRrWHZndlE5ei0xLWRTcHdOQXlNWnNUd0JQelJHQ3I1YkpWWXlrQmxPUFVDLVQ3TTJhMzFuY3VQano0aGotNHdEYU5EZW1sYnhLZmZOM2trUnJIdE84U1d4azEwUHZnbw&q=https%3A%2F%2Fvizhub.com%2Fcurran%2F98ba4daacc92442f8d9fd7d91bfd712a)
+The source code by Curran is on [VizHub](https://vizhub.com/curran/98ba4daacc92442f8d9fd7d91bfd712a?edit=files&file=scatterPlot.js&mode=mini)
 
 This repository used [rollup.js](https://rollupjs.org/) as the JavaScript module bundler. 
 
